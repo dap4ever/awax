@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  /* codigos reutilizaveis  */
+}
+body header {
+  height: 100px;
+  background-color: #000;
+  color: #fff;
+}
+body .container {
+  max-width: 1140px;
+  height: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
